@@ -8,6 +8,15 @@ En este momento, mi prioridad principal es adquirir experiencia y conocimientos 
 considerar ofertas que ofrezcan oportunidades significativas de aprendizaje y desarrollo profesional.
 Agradezco de antemano la oportunidad de considerar mi solicitud. Estoy disponible para una entrevista en cualquier momento conveniente
 
+## Tecnologías:
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Numpy](https://img.shields.io/badge/Numpy-007396?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
+[![Pandas](https://img.shields.io/badge/Pandas-4285F4?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-9146FF?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=101010)]()
+[![Plotly](https://img.shields.io/badge/Plotly-3DDC84?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)]()
+
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 <!--
 **andyjohan0/andyjohan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
