@@ -20,7 +20,7 @@ Agradezco de antemano la oportunidad de considerar mi solicitud. Estoy disponibl
 
 ##Encuentrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andy_Muñico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/andy-muñico-soto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andy_Muñico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andy-muñico-soto/)
 <!--
 **andyjohan0/andyjohan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
