@@ -19,7 +19,8 @@ Agradezco de antemano la oportunidad de considerar mi solicitud. Estoy disponibl
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ##Encuentrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/andy-mu%C3%B1ico-soto-6478a71b5/))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andy_Muñico-FA7343?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/andy-mu%C3%B1ico-soto-6478a71b5/))
 <!--
 **andyjohan0/andyjohan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
