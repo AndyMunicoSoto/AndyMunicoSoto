@@ -1,7 +1,7 @@
 # Hola ,Soy Andy Muñico 👋
 > **PRACTICANTE PREPROFESIONAL**
 
-Mi nombre es Andy Muñico Soto, actualmente estoy en el 9mo ciclo de la carrera de Ciencia de la Computación en la Universidad Peruana de Ciencias
+Mi nombre es Andy Muñico Soto, actualmente estoy en el 8mo ciclo de la carrera de Ciencia de la Computación en la Universidad Peruana de Ciencias
 Aplicadas. Me dirijo a ustedes para expresar mi interés en realizar mis prácticas preprofesionales en el área de Ciencia de Datos en su empresa.
 Actualmente, tengo disponibilidad inmediata para comenzar mis prácticas preprofesionales.
 En este momento, mi prioridad principal es adquirir experiencia y conocimientos en el campo de Ciencia de Datos. Por lo tanto, estoy dispuesto a
